@@ -1,0 +1,5 @@
+Date,Client,Contact,City/State,Owner,Status,Notes,Source
+2026-06-01,Priya N,priya.n@example.com / 9123456780,"Mumbai, Maharashtra",Vikram,Follow up needed,Wants brochure emailed,Sarjapur Plots
+2026-06-02,Karan S,9123456781,"Delhi, Delhi",Vikram,Not interested,Budget too low for our inventory,
+2026-06-03,Deepa R,deepa.r@example.com,"Chennai, Tamil Nadu",Anita,Deal closed,Paid booking amount,Eden Park
+2026-06-04,No Contact Row,,"Unknown",Vikram,Junk,Test row with no email or phone,
